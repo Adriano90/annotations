@@ -1,0 +1,1 @@
+Aplicación que define una anotación propia y la examina en tiempo de ejecución.
